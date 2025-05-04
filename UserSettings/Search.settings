@@ -2,17 +2,17 @@ trackSelection = true
 refreshSearchWindowsInPlayMode = false
 pickerAdvancedUI = false
 fetchPreview = true
-defaultFlags = 0
+defaultFlags = 264
 keepOpen = true
 queryFolder = "Assets"
 onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.66F56946" = "raise or"
+	"last_search.66F56946" = "probuilder window"
 	"OpenInspectorPreview.66F56946" = "0"
 	"currentGroup.66F56946" = null
-	"picker_window_position_offset.075BCD15" = "126.4;179.2;320;550.4"
+	"picker_window_position_offset.075BCD15" = "96;-48.8;320;778.4"
 	"picker_visibility_flags.075BCD15" = "264"
 	"picker_item_size.075BCD15" = "96"
 	"picker_inspector.075BCD15" = "0"
@@ -72,6 +72,8 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	""
+	"raise or probuilde"
 	"raise or"
 	"raise or g"
 	"raise or glo"

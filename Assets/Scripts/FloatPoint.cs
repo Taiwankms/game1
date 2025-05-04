@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class FloatPoint : MonoBehaviour
 {
-    public float waterLevel = 0f;
+    public float waterLevel = -3f;
     public float floatForce = 100f;
     private Rigidbody rb;
 
